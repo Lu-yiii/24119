@@ -5,7 +5,6 @@
 #include "Teacher.h"
 #include "Course.h"
 #include "Utility.h"
-#include "241119.h"
 using namespace std;
 
 int main()
